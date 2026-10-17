@@ -1,0 +1,55 @@
+{
+  "sources": [
+    {
+      "name": "量子资源",
+      "type": "apple-cms-v10",
+      "api": "https://cj.lziapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "电影天堂",
+      "type": "apple-cms-v10",
+      "api": "shturl.cc/stvVqS1yTtRytDpoqox37ygBxH4lrhipXjWK4"
+    },
+    {
+      "name": "非凡影视",
+      "type": "apple-cms-v10",
+      "api": "shturl.cc/oTTKHb1KfOBk4WWdJCEewWlSLK"
+    },
+    {
+      "name": "非凡2",
+      "type": "apple-cms-v10",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "艾旦影视",
+      "type": "apple-cms-v10",
+      "api": "shturl.cc/dWGx40u1mbSFiOtfn6XqMhdRILomK"
+    },
+    {
+      "name": "飘零资源",
+      "type": "apple-cms-v10",
+      "api": "shturl.cc/5RkEcQH6qPmhrTJNe6dT0Ex6CyD"
+    },
+    {
+      "name": "最大资源",
+      "type": "apple-cms-v10",
+      "api": "https://zuidazy.me/api.php/provide/vod"
+    },
+    {
+      "name": "360资源",
+      "type": "apple-cms-v10",
+      "api": "shturl.cc/LzLFFfyDITbtomnoJc2rCy12vwN"
+    },
+    {
+      "name": "无尽资源",
+      "type": "apple-cms-v10",
+      "api": "https://api.wujinapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "百度云",
+      "type": "apple-cms-v10",
+      "api": "https://api.apibdzy.com/api.php/provide/vod"
+    }
+  ],
+  "liveSources": []
+}
